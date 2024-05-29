@@ -7,7 +7,6 @@
 I am passionate about data science and specialize in **Python**, **Excel**, **Power BI**, and **SQL**. Explore my projects and skills below!
 I love uncovering insights from data to help businesses make data-driven decisions. I have strong skills in data analysis, visualization, and database management.
 
-![Data Enthusiast](https://example.com/data-enthusiast.jpg)
 
 ## 🛠️ Skills
 
